@@ -6,3 +6,4 @@ iam just re-editing the readme
 
 I'm not a narcissist. May be you are one.
 
+I have changed my readme to check issues
